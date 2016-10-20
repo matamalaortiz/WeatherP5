@@ -3,3 +3,16 @@ html, body {
   margin: 0;
   padding: 0;
 }
+
+button#submit {
+    background-color: black;
+    border: none;
+    color: white;
+    padding: 18px;
+  margin-top: -19px;
+  	float: left;
+}
+input#city {
+    padding: 15px;
+  	float: left;
+}
